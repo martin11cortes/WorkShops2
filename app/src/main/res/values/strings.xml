@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WorkShops</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_text1">Hi everybody my name is Martín</string>
+    <string name="hello_world_text2">This is my workshop 3</string>
+    <string name="hello_world_text3">This is a test text</string>
+    <string name="hello_world_button1">This is an action</string>
+</resources>
